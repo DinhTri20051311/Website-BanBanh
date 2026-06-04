@@ -1,0 +1,55 @@
+[2025-11-03 02:41:43] === SanPham.php loaded ===
+[2025-11-03 02:41:43] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:41:43] Query string: 
+[2025-11-03 02:41:43] Session before: []
+[2025-11-03 02:41:52] === SanPham.php loaded ===
+[2025-11-03 02:41:52] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:41:52] Query string: 
+[2025-11-03 02:41:52] Session before: []
+[2025-11-03 02:44:10] === SanPham.php loaded ===
+[2025-11-03 02:44:10] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:44:10] Query string: 
+[2025-11-03 02:44:10] Session before: []
+[2025-11-03 02:44:21] === SanPham.php loaded ===
+[2025-11-03 02:44:21] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:44:21] Query string: 
+[2025-11-03 02:44:21] Session before: []
+[2025-11-03 02:44:50] === SanPham.php loaded ===
+[2025-11-03 02:44:50] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:44:50] Query string: 
+[2025-11-03 02:44:50] Session before: []
+[2025-11-03 02:45:25] === SanPham.php loaded ===
+[2025-11-03 02:45:25] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:45:25] Query string: 
+[2025-11-03 02:45:25] Session before: []
+[2025-11-03 02:45:30] === SanPham.php loaded ===
+[2025-11-03 02:45:30] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:45:30] Query string: add=SP016
+[2025-11-03 02:45:30] Session before: []
+[2025-11-03 02:45:30] ==> Người dùng thêm sản phẩm có ID_SP = SP016
+[2025-11-03 02:45:30] 🆕 Thêm mới sản phẩm vào giỏ: {"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}
+[2025-11-03 02:45:30] Session sau khi thêm: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 02:45:32] === SanPham.php loaded ===
+[2025-11-03 02:45:32] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:45:32] Query string: 
+[2025-11-03 02:45:32] Session before: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 02:46:48] === SanPham.php loaded ===
+[2025-11-03 02:46:48] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:46:48] Query string: i=1
+[2025-11-03 02:46:48] Session before: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 02:46:50] === SanPham.php loaded ===
+[2025-11-03 02:46:50] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:46:50] Query string: add=
+[2025-11-03 02:46:50] Session before: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 02:46:50] ==> Người dùng thêm sản phẩm có ID_SP = 
+[2025-11-03 02:46:50] ⚠️ Không tìm thấy sản phẩm có ID_SP = 
+[2025-11-03 02:46:50] Session sau khi thêm: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 02:54:00] === SanPham.php loaded ===
+[2025-11-03 02:54:00] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:54:00] Query string: 
+[2025-11-03 02:54:00] Session before: {"cart":{"SP016":{"tensp":"b\u00e1nh j \u0111\u00f3 ","gia":"1000","soluong":1,"hinhanh":"banh-flan.jpg"}}}
+[2025-11-03 03:07:06] === SanPham.php loaded ===
+[2025-11-03 03:07:09] === SanPham.php loaded ===
+[2025-11-03 03:07:09] Bắt đầu thêm sản phẩm: SP002
+[2025-11-03 03:07:09] Thêm sản phẩm mới [SP002]
+[2025-11-03 03:07:09] Session sau khi thêm: {"user_id":"U007","tk":"trung","vaitro":"user","cart":{"SP002":{"tensp":"B\u00e1nh ng\u1ecdt","gia":"4000","soluong":1,"hinhanh":"banh3.png"}}}

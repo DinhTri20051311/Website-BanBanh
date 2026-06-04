@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.content_dk {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 80vh;
+    background: var(--ivory-white-color);
+}
+
+.formdk {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 40px;
+}
+
+.tddk {
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 18px;
+    color: #222;
+}
+
+.lbldk {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 4px;
+    color: #222;
+}
+
+.required {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.txt_dk {
+    height: 48px;
+    font-size: 1.1rem;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    outline: none;
+    background: #fafafa;
+    margin-bottom: 8px;
+    transition: border 0.2s;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.txt_dk:focus {
+    border: 1.5px solid #f4c70f;
+    background: #fff;
+}
+
+.btndk {
+    margin-top: 10px;
+    height: 52px;
+    background: var(--light-brown-color);
+    color: var(--blue-navy-color);
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s;
+    letter-spacing: 1px;
+    width: 100%;
+}
+
+.btndk:hover {
+    background: var(--blue-navy-color);
+    color: var(--ivory-white-color);
+    box-shadow: 00px 0px 6px 2px var(--blue-navy-color);
+}
+
+.dk_link {
+    margin-top: 18px;
+    text-align: left;
+    color: #222;
+    font-size: 1rem;
+}
+
+.dk_link a {
+    color: #e74c3c;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+/* phần đăng nhập giống đăng ký */
+.dn_social {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 4px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.btn_fb, .btn_gg {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 28px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.2s;
+    min-width: 150px;
+    justify-content: center;
+}
+
+.btn_fb {
+    background: #3b5998;
+}
+
+.btn_fb:hover {
+    background: #2d4373;
+}
+
+.btn_gg {
+    background: #dd4b39;
+}
+
+.btn_gg:hover {
+    background: #b33c29;
+}
+
+.btn_fb i, .btn_gg i {
+    font-size: 20px;
+}
+.dn_khac {
+    text-align: center;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 500;
+    margin: 18px 0 0 0;
+}
+
+body{
+    background: var(--ivory-white-color);
+}
+
+:root {
+  --primary-color:#272625;
+  --secondary-color:#f4c70f;
+  --ivory-white-color:#fdf6e3;
+  --creamy-yellow-color:#f5e1a4;
+  --light-brown-color:#c8a97e;
+  --blue-navy-color:#002147;
+}

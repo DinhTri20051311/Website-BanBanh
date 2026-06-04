@@ -1,0 +1,34 @@
+runtime: php82
+env: standard
+instance_class: F2
+
+beta_settings:
+  cloud_sql_instances: YOUR_PROJECT:YOUR_REGION:YOUR_INSTANCE
+
+env_variables:
+  DB_HOST: 127.0.0.1
+  DB_USER: root
+  DB_PASS: ""
+  DB_NAME: banhang
+  DB_PORT: 3306
+  CLOUD_SQL_CONNECTION_NAME: YOUR_PROJECT:YOUR_REGION:YOUR_INSTANCE
+
+handlers:
+- url: /assets
+  static_dir: assets
+  secure: always
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+  secure: always
+- url: /robots\.txt
+  static_files: robots.txt
+  upload: robots.txt
+  secure: always
+- url: /sitemap\.xml
+  static_files: sitemap.xml
+  upload: sitemap.xml
+  secure: always
+- url: /.*
+  script: auto
+  secure: always

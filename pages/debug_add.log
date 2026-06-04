@@ -1,0 +1,114 @@
+[2025-11-03 02:57:09] === SanPham.php loaded ===
+[2025-11-03 02:58:14] === SanPham.php loaded ===
+[2025-11-03 03:00:14] === SanPham.php loaded ===
+[2025-11-03 03:00:54] === SanPham.php loaded ===
+[2025-11-03 03:16:58] === SanPham.php loaded ===
+[2025-11-03 03:17:00] === SanPham.php loaded ===
+[2025-11-03 03:17:00] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-03 03:17:00] Thêm mới sản phẩm [SP001]
+[2025-11-03 03:17:00] Giỏ hàng hiện tại: {"SP002":{"tensp":"B\u00e1nh ng\u1ecdt","gia":"4000","soluong":1,"hinhanh":"banh3.png"},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 03:17:05] === SanPham.php loaded ===
+[2025-11-03 03:17:07] === SanPham.php loaded ===
+[2025-11-03 03:17:07] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 03:17:07] Tăng số lượng sản phẩm [SP002]
+[2025-11-03 03:17:07] Giỏ hàng hiện tại: {"SP002":{"tensp":"B\u00e1nh ng\u1ecdt","gia":"4000","soluong":1,"hinhanh":"banh3.png","quantity":1},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 03:17:11] === SanPham.php loaded ===
+[2025-11-03 03:17:11] === SanPham.php loaded ===
+[2025-11-03 03:17:11] Thêm sản phẩm vào giỏ: SP003 - Bánh kem tươi
+[2025-11-03 03:17:11] Thêm mới sản phẩm [SP003]
+[2025-11-03 03:17:11] Giỏ hàng hiện tại: {"SP002":{"tensp":"B\u00e1nh ng\u1ecdt","gia":"4000","soluong":1,"hinhanh":"banh3.png","quantity":1},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1},"SP003":{"name":"B\u00e1nh kem t\u01b0\u01a1i","price":"4000","image":"banh5.jpg","quantity":1}}
+[2025-11-03 03:17:18] === SanPham.php loaded ===
+[2025-11-03 03:17:27] === SanPham.php loaded ===
+[2025-11-03 03:17:29] === SanPham.php loaded ===
+[2025-11-03 03:17:29] Thêm sản phẩm vào giỏ: SP006 - bánh j đó 
+[2025-11-03 03:17:29] Thêm mới sản phẩm [SP006]
+[2025-11-03 03:17:29] Giỏ hàng hiện tại: {"SP002":{"tensp":"B\u00e1nh ng\u1ecdt","gia":"4000","soluong":1,"hinhanh":"banh3.png","quantity":1},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1},"SP003":{"name":"B\u00e1nh kem t\u01b0\u01a1i","price":"4000","image":"banh5.jpg","quantity":1},"SP006":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","image":"b_nh_tiramisu_1_c8cacb559cda4ff98c2126dff5b38c70.png","quantity":1}}
+[2025-11-03 03:17:39] === SanPham.php loaded ===
+[2025-11-03 03:17:40] === SanPham.php loaded ===
+[2025-11-03 03:17:40] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 03:17:40] Thêm mới sản phẩm [SP002]
+[2025-11-03 03:17:40] Giỏ hàng hiện tại: {"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":1}}
+[2025-11-03 03:17:45] === SanPham.php loaded ===
+[2025-11-03 03:24:58] === SanPham.php loaded ===
+[2025-11-03 03:25:00] === SanPham.php loaded ===
+[2025-11-03 03:25:00] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 03:25:00] Thêm mới sản phẩm [SP002]
+[2025-11-03 03:25:00] Giỏ hàng hiện tại: {"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":1}}
+[2025-11-03 03:25:10] === SanPham.php loaded ===
+[2025-11-03 03:33:40] === SanPham.php loaded ===
+[2025-11-03 03:33:41] === SanPham.php loaded ===
+[2025-11-03 03:33:41] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 03:33:41] Thêm mới sản phẩm [SP002]
+[2025-11-03 03:33:41] Giỏ hàng hiện tại: {"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":1}}
+[2025-11-03 03:33:43] === SanPham.php loaded ===
+[2025-11-03 03:33:45] === SanPham.php loaded ===
+[2025-11-03 03:33:45] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-03 03:33:45] Thêm mới sản phẩm [SP001]
+[2025-11-03 03:33:45] Giỏ hàng hiện tại: {"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":1},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 03:33:46] === SanPham.php loaded ===
+[2025-11-03 03:35:06] === SanPham.php loaded ===
+[2025-11-03 03:35:07] === SanPham.php loaded ===
+[2025-11-03 03:35:07] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 03:35:07] Tăng số lượng sản phẩm [SP002]
+[2025-11-03 03:35:07] Giỏ hàng hiện tại: {"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":2},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 03:39:45] === SanPham.php loaded ===
+[2025-11-03 03:39:46] === SanPham.php loaded ===
+[2025-11-03 03:39:46] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-03 03:39:46] Thêm mới sản phẩm [SP001]
+[2025-11-03 03:39:46] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 03:45:52] === SanPham.php loaded ===
+[2025-11-03 03:46:02] === SanPham.php loaded ===
+[2025-11-03 03:46:07] === SanPham.php loaded ===
+[2025-11-03 03:46:09] === SanPham.php loaded ===
+[2025-11-03 03:46:17] === SanPham.php loaded ===
+[2025-11-03 07:01:49] === SanPham.php loaded ===
+[2025-11-03 11:18:34] === SanPham.php loaded ===
+[2025-11-03 11:21:15] === SanPham.php loaded ===
+[2025-11-03 11:21:19] === SanPham.php loaded ===
+[2025-11-03 11:23:40] === SanPham.php loaded ===
+[2025-11-03 11:23:42] === SanPham.php loaded ===
+[2025-11-03 11:23:42] Thêm sản phẩm vào giỏ: SP002 - Bánh ngọt
+[2025-11-03 11:23:42] Thêm mới sản phẩm [SP002]
+[2025-11-03 11:23:42] Giỏ hàng hiện tại: {"SP015":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":1,"image":"ccfead64a172173f5b4e7c19f034cba6.jpg"},"SP002":{"name":"B\u00e1nh ng\u1ecdt","price":"4000","image":"banh3.png","quantity":1}}
+[2025-11-03 11:24:31] === SanPham.php loaded ===
+[2025-11-03 11:24:37] === SanPham.php loaded ===
+[2025-11-03 11:28:46] === SanPham.php loaded ===
+[2025-11-03 11:28:48] === SanPham.php loaded ===
+[2025-11-03 11:28:48] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-03 11:28:48] Thêm mới sản phẩm [SP001]
+[2025-11-03 11:28:48] Giỏ hàng hiện tại: {"SP015":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":1,"image":"ccfead64a172173f5b4e7c19f034cba6.jpg"},"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-03 11:33:13] === SanPham.php loaded ===
+[2025-11-03 11:33:14] === SanPham.php loaded ===
+[2025-11-03 11:36:39] === SanPham.php loaded ===
+[2025-11-03 11:58:25] === SanPham.php loaded ===
+[2025-11-28 01:37:03] === SanPham.php loaded ===
+[2025-11-28 01:37:04] === SanPham.php loaded ===
+[2025-11-28 01:37:04] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-28 01:37:04] Thêm mới sản phẩm [SP001]
+[2025-11-28 01:37:04] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-28 01:37:58] === SanPham.php loaded ===
+[2025-11-28 01:40:34] === SanPham.php loaded ===
+[2025-11-28 01:40:34] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-28 01:40:34] Tăng số lượng sản phẩm [SP001]
+[2025-11-28 01:40:34] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":2}}
+[2025-11-28 01:40:42] === SanPham.php loaded ===
+[2025-11-28 01:40:43] === SanPham.php loaded ===
+[2025-11-28 01:40:43] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-28 01:40:43] Thêm mới sản phẩm [SP001]
+[2025-11-28 01:40:43] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-28 02:12:57] === SanPham.php loaded ===
+[2025-11-28 02:12:59] === SanPham.php loaded ===
+[2025-11-28 02:12:59] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-28 02:12:59] Thêm mới sản phẩm [SP001]
+[2025-11-28 02:12:59] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":1}}
+[2025-11-28 02:12:59] === SanPham.php loaded ===
+[2025-11-28 02:12:59] Thêm sản phẩm vào giỏ: SP001 - Bánh kem
+[2025-11-28 02:12:59] Tăng số lượng sản phẩm [SP001]
+[2025-11-28 02:12:59] Giỏ hàng hiện tại: {"SP001":{"name":"B\u00e1nh kem","price":"4000","image":"banh1.jpg","quantity":2}}
+[2025-11-28 02:13:17] === SanPham.php loaded ===
+[2025-11-28 11:12:11] === SanPham.php loaded ===
+[2025-11-28 11:12:22] === SanPham.php loaded ===
+[2025-12-14 06:02:46] === SanPham.php loaded ===
+[2025-12-14 07:33:06] === SanPham.php loaded ===
+[2025-12-14 07:39:47] === SanPham.php loaded ===
+[2025-12-14 07:39:52] === SanPham.php loaded ===

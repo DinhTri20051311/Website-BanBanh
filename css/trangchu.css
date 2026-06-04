@@ -1,0 +1,344 @@
+img.tc-banner {
+    width: 100%;
+    height: 50vw;
+}
+.content {
+  display: flex;
+  gap: 48px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  max-width: 1100px;
+  margin: 40px auto 60px auto;
+  padding: 40px 24px;
+  background: var(--ivory-white-color);
+  border-radius: 18px;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.07);
+}
+
+body{
+  background: var(--ivory-white-color);
+}
+
+.tc-khunganh {
+  flex: 1.1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #faf7f2;
+  border-radius: 16px;
+  padding: 32px 18px 24px 18px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+}
+
+.tc-anhchinh {
+    transition: opacity 0.3s ease;
+    width: 85%;
+    margin-bottom: 5%;
+    object-fit: cover;
+}
+
+.tc-anh {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  object-fit: cover;
+}
+
+.tc-anh:hover {
+  transform: scale(1.1);
+  border: 2px solid;
+  border-color: var(--secondary-color);
+  box-shadow: 0px 0px 4px 1px rgba(244, 199, 15, 0.5)
+}
+
+.tc-list-anh {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.tc-list-anh img {
+  width: 100px;
+  /* height: 60px; */
+  object-fit: cover;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.tc-thongtin {
+  flex: 1.2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0 12px 0;
+}
+
+.tc-tieude {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #b97a00;
+  letter-spacing: 1px;
+}
+
+.tc-tdphu {
+  font-size: 17px;
+  color: #666;
+  margin-bottom: 18px;
+  font-style: italic;
+}
+
+.tc-giatien {
+  margin-bottom: 18px;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.tc-giacu {
+  text-decoration: line-through;
+  color: #aaa;
+  font-size: 17px;
+}
+
+.tc-giamoi {
+  font-size: 24px;
+  color: #e60000;
+  font-weight: bold;
+}
+
+.tc-tk {
+  display: inline-block;
+  color: #0a9c3c;
+  font-size: 15px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.tc-nd {
+  margin-bottom: 18px;
+  padding-left: 18px;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.tc-nd2 {
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.tc-kichthuoc label {
+  margin-right: 20px;
+}
+
+.tc-nut {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.tc-giohang,
+.tc-mua {
+  padding: 12px 32px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  transition: background 0.2s, color 0.2s, transform 0.15s;
+}
+
+.tc-giohang {
+  background-color: #f0c040;
+}
+
+.tc-mua {
+  background-color: #e60000;
+  color: white;
+}
+img.tc-anh2 {
+    width: 200px;
+    border-radius: 15px;
+}
+/* Thêm hoặc chỉnh sửa các đoạn sau để giống giao diện trong ảnh */
+
+.content2 {
+    background: var(--creamy-yellow-color); /* màu vàng nâu nhật */
+    padding: 40px 0;
+    min-height: 450px;
+    position: relative;
+}
+
+.tc-spbanchay {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.tc-sp {
+    background: #fff;
+    border-radius: 24px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+    padding: 30px 25px 20px 25px;
+    min-width: 230px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+}
+
+.tc-sp:hover {
+    transform: translateY(-8px) scale(1.03);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+img.tc-anh2 {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    border-radius: 20px;
+    background: #fff;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+}
+
+.tc-tensp {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 8px 0;
+    text-align: center;
+}
+
+.tc-giasp {
+    font-size: 20px;
+    color: #e60000;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.tc-chitiet {
+    background: #f9c846;
+    color: #222;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 22px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 8px;
+    transition: background 0.2s;
+}
+
+.tc-chitiet:hover {
+    background: #e6b800;
+}
+
+.tc-tieude2 {
+    color: var(--blue-navy-color);
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* Quy trình sản xuất bánh - dạng lục giác, căn giữa, màu sắc nhẹ nhàng */
+
+.conten3 {
+    background: #fff7ea;
+    padding: 50px 0 60px 0;
+}
+
+.tc-tieude3 {
+    color: #f9c846;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+
+.tc-quytrinh {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.tc-ndquytrinh {
+    background: #fff;
+    width: 260px;
+    /* min-height: 320px; */
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+    /* display: flex; */
+    flex-direction: column;
+    /* align-items: center; */
+    padding: 36px 24px 24px 24px;
+    position: relative;
+    /* clip-path: polygon(
+        25% 5%, 75% 5%,
+        100% 50%,
+        75% 95%, 25% 95%,
+        0% 50%
+    ); */
+    margin-bottom: 20px;
+}
+
+
+.tc-ndquytrinh .tc-ndtieude {
+    color: #f9c846;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 18px;
+    margin-top: 0;
+    text-align: center;
+}
+
+.tc-ndquytrinh .tc-ndnd {
+    color: #222;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.tc-ndquytrinh strong {
+    font-weight: bold;
+    display: block;
+    margin-top: 8px;
+}
+
+/* Responsive */
+/* @media (max-width: 1100px) {
+    .tc-quytrinh {
+        gap: 20px;
+    }
+    .tc-ndquytrinh {
+        width: 200px;
+        min-height: 260px;
+        padding: 24px 12px 18px 12px;
+    }
+}
+@media (max-width: 900px) {
+    .tc-quytrinh {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+    .tc-ndquytrinh {
+        width: 90vw;
+        max-width: 320px;
+    }
+} */
+
+:root {
+  --primary-color:#272625;
+  --secondary-color:#f4c70f;
+  --ivory-white-color:#fdf6e3;
+  --creamy-yellow-color:#f5e1a4;
+  --light-brown-color:#c8a97e;
+  --blue-navy-color:#002147;
+}

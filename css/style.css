@@ -1,0 +1,103 @@
+p.banquyen {
+        color: white;
+        background-color: var(--secondary-color);
+        text-align: center;
+        font-size: 22px;
+        padding: 15px;
+}
+:root {
+  --primary-color:#272625;
+  --secondary-color:#f4c70f;
+  --ivory-white-color:#fdf6e3;
+  --creamy-yellow-color:#f5e1a4;
+  --light-brown-color:#c8a97e;
+  --blue-navy-color:#002147;
+}
+ /* Hiệu ứng cho các mục menu */
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333;
+    transition: all 0.3s ease;
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: #d35400;
+    text-decoration: underline;
+    transform: scale(1.05);
+  }
+
+  /* Hiệu ứng cho biểu tượng */
+  .text-dark i {
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+
+  .text-dark i:hover {
+    transform: scale(1.2);
+    color: #d35400;
+  }
+
+  /* Hiệu ứng cho logo */
+  .navbar-brand img {
+    transition: transform 0.3s ease;
+  }
+
+  .navbar-brand img:hover {
+    transform: scale(1.1);
+  }
+
+
+
+/* FOOTER */
+.footer {
+    background-color: #f8c146;
+    padding: 20px 0; /* giảm từ 40px xuống 20px */
+    color: #333;
+    font-size: 0.9rem; /* thu nhỏ chữ */
+    margin-top: 20px;
+  }
+
+  .footer h5 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+  .footer p {
+    margin-bottom: 6px;
+  }
+
+  .footer .logo2 {
+    width: 60px; /* giảm kích thước logo */
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .banquyen {
+    background-color: #e0a800;
+    text-align: center;
+    padding: 10px 0; /* giảm padding */
+    margin: 0;
+    font-size: 0.85rem;
+    color: #fff;
+  }
+.drop form button {
+    background: none;
+    border: none;
+    padding: 10px 5px;
+    color: #222;
+    text-align: left;
+    width: 100%;
+    font-size: 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #f9c846;
+    transition: background 0.2s;
+}
+
+.drop form button:active {
+    background: #f9c846;
+    color: var(--blue-navy-color);
+    border: 1.5px solid var(--blue-navy-color);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(244, 199, 15, 0.25);
+}

@@ -1,0 +1,24 @@
+.content {
+    margin: 5px 20%;
+}
+p.gt-nd {
+    font-size: 20px;
+    color: var(--blue-navy-color);
+}
+
+.gt-td{
+  color: var(--blue-navy-color);
+}
+
+body{
+  background: var(--ivory-white-color);
+}
+
+:root {
+  --primary-color:#272625;
+  --secondary-color:#f4c70f;
+  --ivory-white-color:#fdf6e3;
+  --creamy-yellow-color:#f5e1a4;
+  --light-brown-color:#c8a97e;
+  --blue-navy-color:#002147;
+}

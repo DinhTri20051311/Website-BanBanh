@@ -1,0 +1,182 @@
+:root {
+  --primary-color: #0d6efd;
+  --primary-hover: #0b5ed7;
+  --danger-color: #dc3545;
+  --light-color: #f8f9fa;
+  --dark-color: #212529;
+  --border-radius: 0.375rem;
+  --shadow-sm: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+}
+
+body {
+  background: var(--light-color);
+  /* font-family: Arial, sans-serif; */
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 30px auto 60px auto;
+  padding: 0 16px;
+}
+
+/* Tiêu đề và sắp xếp */
+.sp-khungtieude {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.sp-tieude {
+  font-size: 35px;
+  font-weight: bold;
+  color: var(--dark-color);
+}
+
+.sp-sapxep {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sp-sapxep label {
+  font-size: 20px;
+  color: var(--dark-color);
+}
+
+.sp-sapxep select {
+  padding: 6px 12px;
+  border-radius: var(--border-radius);
+  border: 1px solid #ced4da;
+  font-size: 15px;
+  background: #fff;
+  cursor: pointer;
+  transition: border 0.2s;
+}
+
+.sp-sapxep select:focus {
+  border-color: var(--primary-color);
+  outline: none;
+}
+
+/* Khung sản phẩm */
+.sp-khung {
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px 18px 32px 18px;
+}
+
+/* Lưới sản phẩm */
+.sp-cacsp {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+/* Card sản phẩm */
+.sp-mathang {
+  width: 100%;
+  max-width: 260px;
+  background: #fff;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  transition: transform 0.2s ease;
+}
+
+.sp-mathang:hover {
+  transform: scale(1.02);
+}
+
+/* Ảnh sản phẩm */
+.sp-mathang img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  margin-bottom: 12px;
+}
+
+/* Tên và giá */
+.sp-tensp {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+  text-align: center;
+  color: var(--dark-color);
+}
+
+.sp-gia {
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--danger-color);
+  margin-bottom: 12px;
+}
+
+/* Nút mua */
+.sp-chitiet {
+  background-color: var(--primary-color);
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.sp-chitiet:hover {
+  background-color: var(--primary-hover);
+}
+
+/* Phân trang */
+.sp-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 32px;
+}
+
+.sp-pagination button {
+  background-color: #fff;
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  font-weight: 600;
+  border-radius: var(--border-radius);
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.sp-pagination button.active,
+.sp-pagination button:hover {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .sp-cacsp {
+    gap: 16px;
+  }
+  .sp-mathang {
+    max-width: 45%;
+  }
+}
+
+@media (max-width: 600px) {
+  .sp-cacsp {
+    flex-direction: column;
+    align-items: center;
+  }
+  .sp-mathang {
+    max-width: 90%;
+  }
+}

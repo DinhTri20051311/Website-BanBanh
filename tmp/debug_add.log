@@ -1,0 +1,34 @@
+[2025-11-03 02:38:15] === SanPham.php loaded ===
+[2025-11-03 02:38:15] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:38:15] Current URL: /pages/SanPham.php
+[2025-11-03 02:38:15] Query string: 
+[2025-11-03 02:38:15] Session before: {"cart":{"SP016":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":4,"image":"banh-flan.jpg"}}}
+[2025-11-03 02:38:15] Pagination setup done. Total pages: 1
+[2025-11-03 02:38:17] === SanPham.php loaded ===
+[2025-11-03 02:38:17] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:38:17] Current URL: /pages/SanPham.php?add=SP016
+[2025-11-03 02:38:17] Query string: add=SP016
+[2025-11-03 02:38:17] Session before: {"cart":{"SP016":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":4,"image":"banh-flan.jpg"}}}
+[2025-11-03 02:38:17] Add param detected with ID = 0
+[2025-11-03 02:38:17] ⚠️ No product found for ID = 0
+[2025-11-03 02:38:17] ➡️ Redirecting to: ../pages/giohang.php
+[2025-11-03 02:38:38] === SanPham.php loaded ===
+[2025-11-03 02:38:38] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:38:38] Current URL: /pages/SanPham.php
+[2025-11-03 02:38:38] Query string: 
+[2025-11-03 02:38:38] Session before: {"cart":{"SP016":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":4,"image":"banh-flan.jpg"}}}
+[2025-11-03 02:38:38] Pagination setup done. Total pages: 1
+[2025-11-03 02:38:42] === SanPham.php loaded ===
+[2025-11-03 02:38:42] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:38:42] Current URL: /pages/SanPham.php?add=SP011
+[2025-11-03 02:38:42] Query string: add=SP011
+[2025-11-03 02:38:42] Session before: {"cart":{"SP016":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":4,"image":"banh-flan.jpg"}}}
+[2025-11-03 02:38:42] Add param detected with ID = 0
+[2025-11-03 02:38:42] ⚠️ No product found for ID = 0
+[2025-11-03 02:38:42] ➡️ Redirecting to: ../pages/giohang.php
+[2025-11-03 02:39:44] === SanPham.php loaded ===
+[2025-11-03 02:39:44] Session ID: 2b8c7cad2cdba7d8a1d749b316003a03
+[2025-11-03 02:39:44] Current URL: /pages/SanPham.php
+[2025-11-03 02:39:44] Query string: 
+[2025-11-03 02:39:44] Session before: {"cart":{"SP016":{"name":"b\u00e1nh j \u0111\u00f3 ","price":"1000","quantity":4,"image":"banh-flan.jpg"}}}
+[2025-11-03 02:39:44] Pagination setup done. Total pages: 1
